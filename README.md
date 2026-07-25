@@ -8,7 +8,7 @@ MSc Artificial Intelligence
 University of West London
 
 ## Project Overview
-This project implements a full-stack weather analytics dashboard that fetches live weather data, analyzes air quality, provides AI-based outdoor recommendations, and allows comparison of multiple cities side by side.
+Real-time weather dashboard supporting any city search via OpenWeatherMap, with AI-generated outdoor activity advice, live AQI tracking, and side-by-side comparison of up to 3 cities via interactive Chart.js visualizations.
 
 ## Features
 - Real-time weather data for any city worldwide
